@@ -1,0 +1,9 @@
+body{
+    background-color: dimgray;
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+    font-style: italic;
+    color: firebrick;
+}
